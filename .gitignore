@@ -1,6 +1,6 @@
 # Ignore generated output files
 output/
-sql_mirror/
+
 StrataRoll/
 Properties/
 
@@ -17,3 +17,7 @@ __pycache__/
 # Standard OS ignores
 .DS_Store
 Thumbs.db
+
+!output/.gitkeep
+!StrataRoll/.gitkeep
+!Properties/.gitkeep
