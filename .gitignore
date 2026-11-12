@@ -1,0 +1,19 @@
+# Ignore generated output files
+output/
+sql_mirror/
+StrataRoll/
+Properties/
+
+# Ignore tool-specific/local state folders
+.qodo/
+
+
+# Standard Python ignores
+__pycache__/
+*.pyc
+.env
+.venv
+
+# Standard OS ignores
+.DS_Store
+Thumbs.db

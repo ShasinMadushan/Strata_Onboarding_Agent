@@ -1,0 +1,5 @@
+# Registration fragment; merge into host config and reload.
+[mcp_servers.onboarding-mcp]
+command = "C:/Users/LENOVO/Desktop/Onb Agent/.venv/Scripts/python.exe"
+args = ["-B", "C:/Users/LENOVO/Desktop/Onb Agent/.agents/skills/strata-onboarding/scripts/onboarding_mcp.py"]
+enabled = true

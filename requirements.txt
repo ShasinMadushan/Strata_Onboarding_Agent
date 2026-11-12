@@ -1,0 +1,5 @@
+# Direct dependencies identified from the uploaded source code and its bundled .venv.
+# Version-pinned to match the user's existing Python 3.12 environment.
+mcp==2.2.0
+pypdf==6.18.1
+pdfplumber==0.11.10

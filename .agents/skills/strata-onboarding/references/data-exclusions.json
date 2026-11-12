@@ -1,0 +1,14 @@
+{
+  "excluded_sources": [
+    {
+      "workspace_path": "sample_data/PS732663R/currentLotOccupiers_120255257.csv",
+      "sha256": "619232057f117d69762a9334952d898d9817fed37875d5c95bac33459b469b83",
+      "reason": "Excluded by user: identity unresolved; team question. No tenant staging or Lot/Owner joins.",
+      "blocked_uses": [
+        "tenant_staging",
+        "lot_owner_joins"
+      ],
+      "resolution": "team_confirmation_required"
+    }
+  ]
+}
